@@ -1,5 +1,11 @@
 # Change Log
 
+## 5.0.0
+
+### Major Changes
+
+- 6b22824: d:w
+
 ## 4.0.0
 
 ### Major Changes
