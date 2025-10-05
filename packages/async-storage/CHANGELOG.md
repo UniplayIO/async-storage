@@ -1,5 +1,11 @@
 # Change Log
 
+## 4.0.0
+
+### Major Changes
+
+- 5889cdb: 3
+
 ## 2.2.0
 
 ### Minor Changes
