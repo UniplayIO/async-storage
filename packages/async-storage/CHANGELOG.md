@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.0.1
+
+### Patch Changes
+
+- ae5d731: test
+
 ## 4.0.0
 
 ### Major Changes
