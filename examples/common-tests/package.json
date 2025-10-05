@@ -11,13 +11,13 @@
     "test:ts": "tsc"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "workspace:*",
+    "@uniplay-io/async-storage": "workspace:*",
     "react": "19.0.0"
   },
   "devDependencies": {
-    "@react-native-async-storage/eslint-config": "workspace:*",
     "@types/lodash.isequal": "^4.5.8",
     "@types/react": "^19.0.0",
+    "@uniplay-io/eslint-config": "workspace:*",
     "eslint": "9.34.0",
     "lodash.isequal": "4.5.0",
     "prettier": "3.6.2",

@@ -1,4 +1,4 @@
-import type { AsyncStorage } from "@react-native-async-storage/async-storage";
+import type { AsyncStorage } from "@uniplay-io/async-storage";
 import { type TestRunner, useTests } from "../useTests";
 
 export function useBasicTest(storage: AsyncStorage): TestRunner {

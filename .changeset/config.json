@@ -8,7 +8,7 @@
   "baseBranch": "origin/main",
   "updateInternalDependencies": "patch",
   "ignore": [
-    "@react-native-async-storage/eslint-config",
+    "@uniplay-io/eslint-config",
     "example-react-native",
     "example-web",
     "example-common-tests"

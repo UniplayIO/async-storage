@@ -18,7 +18,7 @@ To create a new storage, call `createAsyncStorage` with your database name:
     It's best to avoid adding an extensions to the name. Read more at [Database naming](db-naming.md) section.
 
 ```typescript
-import { createAsyncStorage } from "@react-native-async-storage/async-storage";
+import { createAsyncStorage } from "@uniplay-io/async-storage";
 
 const userStorage = createAsyncStorage("john");
 ```

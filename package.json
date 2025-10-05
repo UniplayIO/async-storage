@@ -1,13 +1,13 @@
 {
   "private": true,
-  "name": "@react-native-async-storage/root",
-  "version": "0.0.1-dev",
+  "name": "@uniplay-io/root",
+  "version": "3.0.0",
   "versionDocs": "3.0",
   "scripts": {
     "build": "turbo run build",
     "build:android": "./scripts/build-native-lib.sh android",
     "build:apple": "./scripts/build-native-lib.sh apple",
-    "build:js": "yarn workspace @react-native-async-storage/async-storage build",
+    "build:js": "yarn workspace @uniplay-io/async-storage build",
     "format": "concurrently 'yarn:format:*'",
     "format:c": "clang-format -i $(git ls-files '*.cpp' '*.h' '*.m' '*.mm') --style file:.config/.clang-format",
     "format:js": "prettier --write $(git ls-files '*.js' '*.json' '*.ts' '*.tsx' '*.yml' 'README.md')",

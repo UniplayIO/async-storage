@@ -88,7 +88,7 @@ project.afterEvaluate {
     rootProject.allprojects {
         println "projectname: ${it.name}"
         repositories {
-            def proj = project(":react-native-async-storage_async-storage")
+            def proj = project(":uniplay-io_async-storage")
             maven {
                 url = uri("${proj.projectDir}/local_repo")
             }

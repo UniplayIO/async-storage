@@ -19,10 +19,10 @@ It provides a simple API compatible with the [Web Storage API](https://developer
 
 ```shell
 # using npm
-npm install @react-native-async-storage/async-storage
+npm install @uniplay-io/async-storage
 
 # using yarn
-yarn add @react-native-async-storage/async-storage
+yarn add @uniplay-io/async-storage
 ```
 
 On iOS/macOS, don’t forget to install pods:
@@ -37,7 +37,7 @@ pod install
 ### Basic
 
 ```typescript
-import { createAsyncStorage } from "@react-native-async-storage/async-storage";
+import { createAsyncStorage } from "@uniplay-io/async-storage";
 
 // Create a storage instance
 const storage = createAsyncStorage("appDB");

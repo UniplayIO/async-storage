@@ -1,6 +1,6 @@
 import { useState } from "react";
 import isEqual from "lodash.isequal";
-import { AsyncStorageError } from "@react-native-async-storage/async-storage";
+import { AsyncStorageError } from "@uniplay-io/async-storage";
 
 type Log = { type: "info" | "ok" | "err"; messages: string[] };
 

@@ -18,7 +18,7 @@ Add new remote where docs are hosted:
 
 ```shell
 # use https if not using ssh
-git remote add docs git@github.com:react-native-async-storage/react-native-async-storage.github.io.git
+git remote add docs git@github.com:react-native-async-storage/uniplay-io.github.io/async-storage.git
 ```
 
 Fetch gh-pages branch:

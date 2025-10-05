@@ -1,8 +1,8 @@
 {
-  "name": "@react-native-async-storage/eslint-config",
+  "name": "@uniplay-io/eslint-config",
   "version": "0.0.0",
   "private": true,
-  "description": "Shareable ESLint config for @react-native-async-storage",
+  "description": "Shareable ESLint config for @uniplay-io",
   "license": "MIT",
   "exports": {
     ".": {

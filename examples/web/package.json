@@ -12,9 +12,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "workspace:*",
-    "@react-native-async-storage/eslint-config": "workspace:*",
     "@tailwindcss/vite": "^4.1.13",
+    "@uniplay-io/async-storage": "workspace:*",
+    "@uniplay-io/eslint-config": "workspace:*",
     "example-common-tests": "workspace:*",
     "react": "19.1.1",
     "react-dom": "19.1.1",

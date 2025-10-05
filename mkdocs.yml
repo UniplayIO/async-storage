@@ -1,6 +1,6 @@
 site_name: Async Storage
 repo_url: https://github.com/react-native-async-storage/async-storage
-site_url: https://react-native-async-storage.github.io/
+site_url: https://uniplay-io.github.io/async-storage/
 
 nav:
   - Overview: index.md
